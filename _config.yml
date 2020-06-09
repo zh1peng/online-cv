@@ -1,0 +1,30 @@
+
+title: Zhipeng's Resume
+url: 'http://www.lazysnake.cn'
+baseurl: '/online-cv' #change it according to your repository name
+
+
+# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
+style: styles-3
+#style: styles-4
+#style: styles-5
+#style: styles-6
+
+
+#Profile information
+name: Zhipeng Cao
+tagline: Ph.D.
+pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+#sidebar links
+email: zhipeng30@foxmail.com
+phone: 86-15123339950
+website: www.lazysnake.cn #do not add http://
+linkedin: zhipeng-cao-1b5985111
+github: zh1peng
+twitter: zh1peng
+
+
+# Tracker
+analytics: UA-104399935-1
+#Update all the sections by editing the files inside _includes folder.
